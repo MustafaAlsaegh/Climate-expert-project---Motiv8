@@ -1,0 +1,272 @@
+Expert,Country,Key,lower,upper,difference,mean,pointMean,scientist_name,sex
+102,U.S.,Current Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+102,U.S.,Least Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+102,U.S.,Most Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,F
+102,U.S.,Likeliest Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,F
+103,U.S.,Current Warming,0,1.5,1.5,1.25,1.25,Social Scientist is not Climate Communcator,F
+103,U.S.,Least Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+103,U.S.,Most Warming,3,4,1,3.5,3.5,Social Scientist is not Climate Communcator,F
+103,U.S.,Likeliest Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+105,U.S.,Most Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+105,U.S.,Current Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+105,U.S.,Least Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+105,U.S.,Likeliest Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+106,U.S.,Current Warming,NA,NA,NA,NA,1.1,Social Scientist is not Climate Communcator,M
+106,U.S.,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+106,U.S.,Most Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+106,U.S.,Likeliest Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+107,U.S.,Current Warming,1.1,1.2,0.1,1.15,1.15,Natural Scientist is not Climate Communicator,M
+107,U.S.,Least Warming,NA,NA,NA,NA,1.5,Natural Scientist is not Climate Communicator,M
+107,U.S.,Most Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,M
+107,U.S.,Likeliest Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+108,U.S.,Likeliest Warming,NA,NA,NA,NA,3,Natural Scientist is not Climate Communicator,F
+108,U.S.,Current Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,F
+108,U.S.,Least Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,F
+108,U.S.,Most Warming,3,4,1,3.5,3.5,Natural Scientist is not Climate Communicator,F
+111,U.S.,Current Warming,0,1.5,1.5,1.25,1.25,Social Scientist is not Climate Communcator,M
+111,U.S.,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+111,U.S.,Most Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+111,U.S.,Likeliest Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+114,U.S.,Current Warming,1,2,1,1.5,1.5,Social Scientist is not Climate Communcator,M
+114,U.S.,Least Warming,NA,NA,NA,NA,1.5,Social Scientist is not Climate Communcator,M
+114,U.S.,Most Warming,NA,NA,NA,NA,2,Social Scientist is not Climate Communcator,M
+114,U.S.,Likeliest Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+121,U.S.,Current Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+121,U.S.,Least Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+121,U.S.,Most Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,M
+121,U.S.,Likeliest Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,M
+123,U.S.,Current Warming,1.2,1.3,0.1,1.25,1.25,Social Scientist is Climate Communcator,M
+123,U.S.,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is Climate Communcator,M
+123,U.S.,Most Warming,1.5,2,0.5,1.75,1.75,Social Scientist is Climate Communcator,M
+123,U.S.,Likeliest Warming,2,2.5,0.5,2.25,2.25,Social Scientist is Climate Communcator,M
+127,U.S.,Current Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is Climate Communicator,F
+127,U.S.,Current Warming,0,1.5,1.5,1.25,1.25,Social Scientist is Climate Communcator,F
+127,U.S.,Least Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is Climate Communicator,F
+127,U.S.,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is Climate Communcator,F
+127,U.S.,Most Warming,2,3,1,2.5,2.5,Natural Scientist is Climate Communicator,F
+127,U.S.,Most Warming,2,3,1,2.5,2.5,Social Scientist is Climate Communcator,F
+127,U.S.,Likeliest Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is Climate Communicator,F
+127,U.S.,Likeliest Warming,1.5,2,0.5,1.75,1.75,Social Scientist is Climate Communcator,F
+130,U.S.,Current Warming,NA,NA,NA,NA,1.1,Natural Scientist is not Climate Communicator,M
+130,U.S.,Least Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+130,U.S.,Most Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+130,U.S.,Likeliest Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+131,U.S.,Current Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+131,U.S.,Least Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+131,U.S.,Most Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+131,U.S.,Likeliest Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+132,U.S.,Current Warming,NA,NA,NA,NA,1.2,Natural Scientist is not Climate Communicator,M
+132,U.S.,Least Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+132,U.S.,Most Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+132,U.S.,Likeliest Warming,1.5,1.7,0.2,1.6,1.6,Natural Scientist is not Climate Communicator,M
+133,U.S.,Current Warming,0,1.5,1.5,1.25,1.25,Social Scientist is not Climate Communcator,F
+133,U.S.,Least Warming,0,1.5,1.5,1.25,1.25,Social Scientist is not Climate Communcator,F
+133,U.S.,Most Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+133,U.S.,Likeliest Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,F
+134,U.S.,Current Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,F
+134,U.S.,Least Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+134,U.S.,Most Warming,NA,NA,NA,NA,4,Social Scientist is not Climate Communcator,F
+134,U.S.,Likeliest Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+135,U.S.,Current Warming,NA,NA,NA,NA,1.2,Social Scientist is Climate Communcator,F
+135,U.S.,Least Warming,NA,NA,NA,NA,1.5,Social Scientist is Climate Communcator,F
+135,U.S.,Most Warming,2,3,1,2.5,2.5,Social Scientist is Climate Communcator,F
+135,U.S.,Likeliest Warming,NA,NA,NA,NA,2,Social Scientist is Climate Communcator,F
+136,U.S.,Current Warming,NA,NA,NA,NA,1.5,Social Scientist is not Climate Communcator,M
+136,U.S.,Least Warming,NA,NA,NA,NA,2.5,Social Scientist is not Climate Communcator,M
+136,U.S.,Most Warming,4.5,5,0.5,4.75,4.75,Social Scientist is not Climate Communcator,M
+136,U.S.,Likeliest Warming,3,3.5,0.5,3.25,3.25,Social Scientist is not Climate Communcator,M
+137,U.S.,Current Warming,NA,NA,NA,NA,1.1,Natural Scientist is not Climate Communicator,M
+137,U.S.,Least Warming,NA,NA,NA,NA,2,Natural Scientist is not Climate Communicator,M
+137,U.S.,Most Warming,NA,NA,NA,NA,1.5,Natural Scientist is not Climate Communicator,M
+137,U.S.,Likeliest Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+146,U.S.,Current Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,F
+146,U.S.,Least Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,F
+146,U.S.,Most Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,F
+146,U.S.,Likeliest Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,F
+149,U.S.,Current Warming,NA,NA,NA,NA,1.3,Natural Scientist is not Climate Communicator,M
+149,U.S.,Least Warming,NA,NA,NA,NA,2,Natural Scientist is not Climate Communicator,M
+149,U.S.,Most Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,M
+149,U.S.,Likeliest Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+152,U.S.,Current Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+152,U.S.,Least Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,M
+152,U.S.,Most Warming,3,4,1,3.5,3.5,Natural Scientist is not Climate Communicator,M
+152,U.S.,Likeliest Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,M
+160,U.S.,Current Warming,NA,NA,NA,NA,1.1,Social Scientist is not Climate Communcator,F
+160,U.S.,Least Warming,1.8,2,0.2,1.9,1.9,Social Scientist is not Climate Communcator,F
+160,U.S.,Most Warming,NA,NA,NA,NA,2.5,Social Scientist is not Climate Communcator,F
+160,U.S.,Likeliest Warming,1.7,2.5,0.8,2.1,2.1,Social Scientist is not Climate Communcator,F
+162,U.S.,Current Warming,1.2,1.3,0.1,1.25,1.25,Social Scientist is not Climate Communcator,M
+162,U.S.,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+162,U.S.,Most Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+162,U.S.,Likeliest Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+169,U.S.,Current Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is Climate Communicator,M
+169,U.S.,Least Warming,2,4,2,3,3,Natural Scientist is Climate Communicator,M
+169,U.S.,Most Warming,NA,NA,NA,NA,4,Natural Scientist is Climate Communicator,M
+169,U.S.,Likeliest Warming,3,4,1,3.5,3.5,Natural Scientist is Climate Communicator,M
+175,U.S.,Current Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+175,U.S.,Least Warming,2.5,3,0.5,2.75,2.75,Natural Scientist is not Climate Communicator,M
+175,U.S.,Likeliest Warming,2.5,3,0.5,2.75,2.75,Natural Scientist is not Climate Communicator,M
+176,U.S.,Current Warming,NA,NA,NA,NA,1.1,Natural Scientist is not Climate Communicator,M
+176,U.S.,Least Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,M
+176,U.S.,Most Warming,3,4,1,3.5,3.5,Natural Scientist is not Climate Communicator,M
+176,U.S.,Likeliest Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+181,U.S.,Current Warming,NA,NA,NA,NA,1.2,Natural Scientist is not Climate Communicator,F
+181,U.S.,Least Warming,1.8,2.5,0.7,2.15,2.15,Natural Scientist is not Climate Communicator,F
+181,U.S.,Most Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,F
+181,U.S.,Likeliest Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,F
+194,U.S.,Current Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+194,U.S.,Least Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+194,U.S.,Most Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,M
+194,U.S.,Likeliest Warming,2,2.5,0.5,2.25,2.25,Natural Scientist is not Climate Communicator,M
+195,U.S.,Current Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+195,U.S.,Least Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,M
+195,U.S.,Most Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,M
+195,U.S.,Likeliest Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,M
+196,U.S.,Current Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,F
+196,U.S.,Current Warming,0,1.5,1.5,1.25,1.25,Social Scientist is not Climate Communcator,F
+196,U.S.,Least Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,F
+196,U.S.,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,F
+196,U.S.,Most Warming,3,4,1,3.5,3.5,Natural Scientist is not Climate Communicator,F
+196,U.S.,Most Warming,3,4,1,3.5,3.5,Social Scientist is not Climate Communcator,F
+196,U.S.,Likeliest Warming,3,4,1,3.5,3.5,Natural Scientist is not Climate Communicator,F
+196,U.S.,Likeliest Warming,3,4,1,3.5,3.5,Social Scientist is not Climate Communcator,F
+198,U.S.,Current Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,F
+198,U.S.,Least Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+198,U.S.,Most Warming,NA,NA,NA,NA,4,Social Scientist is not Climate Communcator,F
+198,U.S.,Likeliest Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+201,India,Current Warming,NA,NA,NA,NA,1.5,Social Scientist is Climate Communcator,F
+201,India,Least Warming,2,3,1,2.5,2.5,Social Scientist is Climate Communcator,F
+201,India,Most Warming,2,3,1,2.5,2.5,Social Scientist is Climate Communcator,F
+201,India,Likeliest Warming,2,3,1,2.5,2.5,Social Scientist is Climate Communcator,F
+202,India,Current Warming,NA,NA,NA,NA,1.2,Social Scientist is not Climate Communcator,F
+202,India,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,F
+202,India,Most Warming,3,4,1,3.5,3.5,Social Scientist is not Climate Communcator,F
+202,India,Likeliest Warming,3,4,1,3.5,3.5,Social Scientist is not Climate Communcator,F
+205,India,Current Warming,1,1.2,0.2,1.1,1.1,Social Scientist is not Climate Communcator,M
+205,India,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+205,India,Most Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+205,India,Likeliest Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+208,India,Current Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+208,India,Least Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+208,India,Most Warming,NA,NA,NA,NA,2,Natural Scientist is not Climate Communicator,M
+208,India,Likeliest Warming,1.6,1.7,0.1,1.65,1.65,Natural Scientist is not Climate Communicator,M
+210,India,Current Warming,1,1.5,0.5,1.25,1.25,Social Scientist is not Climate Communcator,M
+210,India,Least Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+210,India,Most Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+210,India,Likeliest Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+211,India,Current Warming,NA,NA,NA,NA,1,Social Scientist is not Climate Communcator,F
+211,India,Least Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+211,India,Most Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+211,India,Likeliest Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+213,India,Current Warming,NA,NA,NA,NA,1,Natural Scientist is not Climate Communicator,M
+213,India,Least Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+213,India,Most Warming,3,4,1,3.5,3.5,Natural Scientist is not Climate Communicator,M
+213,India,Likeliest Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,M
+220,India,Current Warming,1,2,1,1.5,1.5,Social Scientist is not Climate Communcator,M
+220,India,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+220,India,Most Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+220,India,Likeliest Warming,NA,NA,NA,NA,2,Social Scientist is not Climate Communcator,M
+222,India,Current Warming,1,1.5,0.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+222,India,Least Warming,NA,NA,NA,NA,2,Natural Scientist is not Climate Communicator,M
+222,India,Most Warming,2,3,1,2.5,2.5,Natural Scientist is not Climate Communicator,M
+222,India,Likeliest Warming,NA,NA,NA,NA,2,Natural Scientist is not Climate Communicator,M
+228,India,Current Warming,0.7,0.8,0.1,1.25,1.25,Social Scientist is not Climate Communcator,M
+228,India,Least Warming,NA,NA,NA,NA,1.3,Social Scientist is not Climate Communcator,M
+228,India,Most Warming,NA,NA,NA,NA,1.3,Social Scientist is not Climate Communcator,M
+228,India,Likeliest Warming,NA,NA,NA,NA,1.5,Social Scientist is not Climate Communcator,M
+229,India,Current Warming,0,1.5,1.5,1.25,1.25,Social Scientist is not Climate Communcator,M
+229,India,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+229,India,Most Warming,NA,NA,NA,NA,4,Social Scientist is not Climate Communcator,M
+229,India,Likeliest Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+232,India,Current Warming,NA,NA,NA,NA,1,Social Scientist is not Climate Communcator,M
+232,India,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+232,India,Most Warming,NA,NA,NA,NA,3,Social Scientist is not Climate Communcator,M
+232,India,Likeliest Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+233,India,Current Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+233,India,Current Warming,0,1.5,1.5,1.25,1.25,Social Scientist is not Climate Communcator,M
+233,India,Least Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+233,India,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+233,India,Most Warming,NA,NA,NA,NA,3,Natural Scientist is not Climate Communicator,M
+233,India,Most Warming,NA,NA,NA,NA,3,Social Scientist is not Climate Communcator,M
+233,India,Likeliest Warming,NA,NA,NA,NA,3,Natural Scientist is not Climate Communicator,M
+233,India,Likeliest Warming,NA,NA,NA,NA,3,Social Scientist is not Climate Communcator,M
+234,India,Current Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is Climate Communicator,F
+234,India,Current Warming,0,1.5,1.5,1.25,1.25,Social Scientist is Climate Communcator,F
+234,India,Least Warming,1.4,1.5,0.1,1.45,1.45,Natural Scientist is Climate Communicator,F
+234,India,Least Warming,1.4,1.5,0.1,1.45,1.45,Social Scientist is Climate Communcator,F
+234,India,Most Warming,1.4,1.5,0.1,1.45,1.45,Natural Scientist is Climate Communicator,F
+234,India,Most Warming,1.4,1.5,0.1,1.45,1.45,Social Scientist is Climate Communcator,F
+234,India,Likeliest Warming,1.4,1.5,0.1,1.45,1.45,Natural Scientist is Climate Communicator,F
+234,India,Likeliest Warming,1.4,1.5,0.1,1.45,1.45,Social Scientist is Climate Communcator,F
+235,India,Current Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is Climate Communicator,F
+235,India,Current Warming,1.5,2,0.5,1.75,1.75,Social Scientist is Climate Communcator,F
+235,India,Least Warming,NA,NA,NA,NA,2,Natural Scientist is Climate Communicator,F
+235,India,Least Warming,NA,NA,NA,NA,2,Social Scientist is Climate Communcator,F
+235,India,Most Warming,2.2,2.3,0.1,2.25,2.25,Natural Scientist is Climate Communicator,F
+235,India,Most Warming,2.2,2.3,0.1,2.25,2.25,Social Scientist is Climate Communcator,F
+235,India,Likeliest Warming,1.8,2,0.2,1.9,1.9,Natural Scientist is Climate Communicator,F
+235,India,Likeliest Warming,1.8,2,0.2,1.9,1.9,Social Scientist is Climate Communcator,F
+238,India,Least Warming,NA,NA,NA,NA,2,Social Scientist is Climate Communcator,M
+238,India,Most Warming,2,3,1,2.5,2.5,Social Scientist is Climate Communcator,M
+238,India,Likeliest Warming,2,3,1,2.5,2.5,Social Scientist is Climate Communcator,M
+240,India,Current Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+240,India,Least Warming,NA,NA,NA,NA,1.5,Natural Scientist is not Climate Communicator,M
+240,India,Most Warming,NA,NA,NA,NA,2,Natural Scientist is not Climate Communicator,M
+240,India,Likeliest Warming,NA,NA,NA,NA,1.5,Natural Scientist is not Climate Communicator,M
+244,India,Current Warming,1,1.2,0.2,1.1,1.1,Natural Scientist is not Climate Communicator,M
+244,India,Least Warming,NA,NA,NA,NA,2,Natural Scientist is not Climate Communicator,M
+244,India,Most Warming,NA,NA,NA,NA,2,Natural Scientist is not Climate Communicator,M
+244,India,Likeliest Warming,NA,NA,NA,NA,2,Natural Scientist is not Climate Communicator,M
+246,India,Current Warming,0,1.5,1.5,1.25,1.85,Social Scientist is not Climate Communcator,M
+246,India,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+246,India,Likeliest Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+248,India,Current Warming,NA,NA,NA,NA,1.1,Social Scientist is not Climate Communcator,M
+248,India,Most Warming,3,4,1,3.5,3.5,Social Scientist is not Climate Communcator,M
+248,India,Likeliest Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+249,India,Current Warming,3,4,1,3.5,3.5,Natural Scientist is Climate Communicator,M
+249,India,Current Warming,3,4,1,3.5,3.5,Social Scientist is Climate Communcator,M
+249,India,Least Warming,3,4,1,3.5,3.5,Natural Scientist is Climate Communicator,M
+249,India,Least Warming,3,4,1,3.5,3.5,Social Scientist is Climate Communcator,M
+249,India,Most Warming,NA,NA,NA,NA,4,Natural Scientist is Climate Communicator,M
+249,India,Most Warming,NA,NA,NA,NA,4,Social Scientist is Climate Communcator,M
+249,India,Likeliest Warming,NA,NA,NA,NA,4,Natural Scientist is Climate Communicator,M
+249,India,Likeliest Warming,NA,NA,NA,NA,4,Social Scientist is Climate Communcator,M
+251,India,Current Warming,1,1.5,0.5,1.25,1.25,Natural Scientist is Climate Communicator,F
+251,India,Current Warming,1,1.5,0.5,1.25,1.25,Social Scientist is Climate Communcator,F
+251,India,Least Warming,NA,NA,NA,NA,3,Natural Scientist is Climate Communicator,F
+251,India,Least Warming,NA,NA,NA,NA,3,Social Scientist is Climate Communcator,F
+251,India,Most Warming,NA,NA,NA,NA,1.5,Natural Scientist is Climate Communicator,F
+251,India,Most Warming,NA,NA,NA,NA,1.5,Social Scientist is Climate Communcator,F
+251,India,Likeliest Warming,NA,NA,NA,NA,4,Natural Scientist is Climate Communicator,F
+251,India,Likeliest Warming,NA,NA,NA,NA,4,Social Scientist is Climate Communcator,F
+252,India,Current Warming,0,1.5,1.5,1.25,1.25,Social Scientist is not Climate Communcator,M
+252,India,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+252,India,Most Warming,3,4,1,3.5,3.5,Social Scientist is not Climate Communcator,M
+252,India,Likeliest Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+254,India,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is Climate Communcator,M
+254,India,Most Warming,NA,NA,NA,NA,3,Social Scientist is Climate Communcator,M
+254,India,Likeliest Warming,NA,NA,NA,NA,2,Social Scientist is Climate Communcator,M
+259,India,Current Warming,NA,NA,NA,NA,1.1,Social Scientist is not Climate Communcator,M
+259,India,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+259,India,Most Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+259,India,Likeliest Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+260,India,Current Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,F
+260,India,Least Warming,NA,NA,NA,NA,2,Social Scientist is not Climate Communcator,F
+260,India,Most Warming,NA,NA,NA,NA,3,Social Scientist is not Climate Communcator,F
+260,India,Likeliest Warming,NA,NA,NA,NA,2,Social Scientist is not Climate Communcator,F
+267,India,Current Warming,1,1.1,0.1,1.05,1.05,Social Scientist is not Climate Communcator,M
+267,India,Least Warming,NA,NA,NA,NA,1.5,Social Scientist is not Climate Communcator,M
+267,India,Most Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,M
+267,India,Likeliest Warming,NA,NA,NA,NA,2,Social Scientist is not Climate Communcator,M
+268,India,Current Warming,NA,NA,NA,NA,1.5,Social Scientist is not Climate Communcator,F
+268,India,Least Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+268,India,Most Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+268,India,Likeliest Warming,2,3,1,2.5,2.5,Social Scientist is not Climate Communcator,F
+269,India,Current Warming,0,1.5,1.5,1.25,1.25,Natural Scientist is not Climate Communicator,M
+269,India,Current Warming,0,1.5,1.5,1.25,1.25,Social Scientist is not Climate Communcator,M
+269,India,Least Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+269,India,Least Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
+269,India,Most Warming,NA,NA,NA,NA,2,Natural Scientist is not Climate Communicator,M
+269,India,Most Warming,NA,NA,NA,NA,2,Social Scientist is not Climate Communcator,M
+269,India,Likeliest Warming,1.5,2,0.5,1.75,1.75,Natural Scientist is not Climate Communicator,M
+269,India,Likeliest Warming,1.5,2,0.5,1.75,1.75,Social Scientist is not Climate Communcator,M
